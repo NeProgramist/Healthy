@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">healthy.</string>
+
+    //goals
+    <string name="fitButton_lose_weight_text">Lose\nweight</string>
+    <string name="fitButton_keep_weight_text">Keep\nfit</string>
+    <string name="fitButton_gain_weight_text">Gain\nweight</string>
+
+    //SingUpFirst
+    <string name="user_name_edittext_hint">Name</string>
+    <string name="user_sex_button_male_text">Male</string>
+    <string name="user_sex_button_female_text">Female</string>
+    <string name="user_age_scrolling_choose_text">years</string>
+    <string name="signUp_first_text">Please, fill the \n form :)</string>
+
+    //SignUpSecond
+    <string name="signUp_second_text">We are curious to  know more about   you :P</string>
+    <string name="user_height_scrolling_choose_text">height, cm</string>
+    <string name="user_weight_scrolling_choose_text">weight, kg</string>
+    <string name="suggested_weight_learnMore">Learn more</string>
+    <string name="suggested_weight_text">Choose your goal weight</string>
+</resources>

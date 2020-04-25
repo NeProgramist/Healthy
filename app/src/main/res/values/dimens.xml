@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_name_marginTop">40dp</dimen>
+    <dimen name="app_name_loading_textSize">34dp</dimen>
+
+
+    <dimen name="signUp_default_margin">12dp</dimen>
+    <dimen name="signUp_default_block_width">232dp</dimen>
+    <dimen name="signUp_default_block_height">56dp</dimen>
+    <dimen name="signUp_default_scroll_block_height">72dp</dimen>
+    <dimen name="signUp_default_text_size">24dp</dimen>
+    <dimen name="signUp_blur_width">70dp</dimen>
+
+    <dimen name="user_avatar_size">150dp</dimen>
+    <dimen name="user_avatar_margin">100dp</dimen>
+    <dimen name="user_avatar_marginTop">48dp</dimen>
+    <dimen name="user_avatar_marginBottom">28dp</dimen>
+
+    <dimen name="user_name_edittext_paddingStart">24dp</dimen>
+    <dimen name="user_name_edittext_margin">12dp</dimen>
+
+    <dimen name="user_sex_button_width">104dp</dimen>
+    <dimen name="user_sex_button_textSize">22dp</dimen>
+
+    <dimen name="user_confirm_button_size">88dp</dimen>
+    <dimen name="scroll_choose_textSize">14dp</dimen>
+    <dimen name="scroll_choose_text_margin">6dp</dimen>
+
+    <dimen name="fitButton_textSize">16dp</dimen>
+    <dimen name="fitButton_lose_weight_width">75dp</dimen>
+    <dimen name="fitButton_keep_fit_width">77dp</dimen>
+    <dimen name="fitButton_gain_weight_width">75dp</dimen>
+    <dimen name="fitButton_vertical_separator_width">1dp</dimen>
+    <dimen name="fitButton_vertical_separator_height">45dp</dimen>
+
+    <dimen name="suggested_weight_text_width">144dp</dimen>
+    <dimen name="suggested_weight_textSize">16dp</dimen>
+    <dimen name="suggested_blur_width">20dp</dimen>
+
+
+</resources>
